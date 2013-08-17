@@ -5,9 +5,9 @@ Simple plugin to append in specific index position.
 ## Usage
 
 Options:
-  index: index position of the element
-  content: element
-  replace: if you wish replace the current element in the index position
+* index: index position of the element
+* content: element
+* replace: if you wish replace the current element in the index position
 
 ```html
 <div id="container">
